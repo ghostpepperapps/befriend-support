@@ -1,76 +1,77 @@
 * {
-    margin: 0;
+  margin: 0;
 }
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
 }
-body p, body h3 {
-    margin: 5px;
+body p,
+body h3 {
+  margin: 0.8em;
 }
 body h3 {
-    font-size: 25px;
+  font-size: 25px;
 }
 header {
-    padding: 40px 0;
-    box-sizing: border-box;
-    background-color:khaki;
-    border: solid blue 4px;
-    align-items:center;
-    text-align: center;
-    font-family: "Comic Sans MS";
-    font-size: 16px;
+  padding: 40px 0;
+  box-sizing: border-box;
+  background-color: khaki;
+  border: solid blue 4px;
+  align-items: center;
+  text-align: center;
+  font-family: "Comic Sans MS";
+  font-size: 16px;
 }
 header a {
-    color: black;
-    text-decoration: none;
+  color: black;
+  text-decoration: none;
 }
 #icon {
-    height: 4em;
-    vertical-align: middle;
+  height: 4em;
+  vertical-align: middle;
 }
 header h1 {
-    display: inline;
-    vertical-align: middle;
-    margin-left: 0.4em;
+  display: inline;
+  vertical-align: middle;
+  margin-left: 0.4em;
 }
 
 #download-buttons {
-    display: inline;
+  display: inline;
 }
 #download-buttons a:hover {
-    background: none;
+  background: none;
 }
 #download-android {
-    height: 3em;
+  height: 3em;
 }
 #download-ios {
-    height: 2.1em;
-    margin: 10px;
+  height: 2.1em;
+  margin: 10px;
 }
 
 footer {
-    position: absolute;
-    margin-top: 20px;
-    margin-bottom: 0;
-    padding: 10px 10px 20px 10px;
-    box-sizing: border-box;
-    font-family: Tahoma, sans-serif;
-    width: 100%;
-    height: 4.5rem;
-    background-color: darkorange;
-    border: solid darkgreen 4px;
+  position: absolute;
+  margin-top: 20px;
+  margin-bottom: 0;
+  padding: 10px 10px 20px 10px;
+  box-sizing: border-box;
+  font-family: Tahoma, sans-serif;
+  width: 100%;
+  height: 4.5rem;
+  background-color: darkorange;
+  border: solid darkgreen 4px;
 }
 a {
-    padding: 1px 4px 3px 4px;
-    transition: color 250ms, background-color 250ms, font-size 250ms;
+  padding: 1px 4px 3px 4px;
+  transition: color 250ms, background-color 250ms, font-size 250ms;
 }
 a:hover {
-    color: white;
-    background-color: red;
+  color: white;
+  background-color: red;
 }
 header a:hover {
-    font-size: 20px;
-    color: black;
-    background: none;
+  font-size: 20px;
+  color: black;
+  background: none;
 }
