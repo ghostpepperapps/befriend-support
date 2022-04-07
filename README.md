@@ -1,2 +1,3 @@
-# chemfriend-support
-Official support website for the Chemfriend mobile app.
+# befriend-support
+
+Official support website for the Befriend mobile app.
